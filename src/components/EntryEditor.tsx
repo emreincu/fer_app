@@ -10,7 +10,7 @@ import {
   Select,
   Option
 } from '@contentful/forma-36-react-components';
-import { EditorExtensionSDK} from 'contentful-ui-extensions-sdk';
+import { EditorExtensionSDK } from 'contentful-ui-extensions-sdk';
 
 interface EditorProps {
   sdk: EditorExtensionSDK;
